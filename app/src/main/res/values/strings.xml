@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToastImplement</string>
+    <string name="Button">Toast ki Maa</string>
+    <string name="TextView">Smack Down</string>
+</resources>
